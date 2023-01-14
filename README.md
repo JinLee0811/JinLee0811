@@ -1,8 +1,8 @@
 
 
-### Welcome👏
+## Welcome to my GitHub👏
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/89780e5afccf49409db2793617e9884a)
+* Here is my Portfolio 👉 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/89780e5afccf49409db2793617e9884a)
 
 
 * 💻 계속해서 배우고 있는 신입 프론트엔드 엔지니어입니다.
