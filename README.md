@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub👏
 
-* Here is my Portfolio 👉 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Jin-Lee-Frontend-Developer-f52e21711a1f449f997055ad5cc56c11)](https://www.notion.so/Jin-Lee-Frontend-Developer-f52e21711a1f449f997055ad5cc56c11)
+* Here is my Portfolio 👉 https://jinlee0811.github.io/portfolio/
 
 * 💻 I am an aspiring frontend developer who is constantly learning.
 * 📹 I am interested in designing and creating websites, apps, and graphics.
