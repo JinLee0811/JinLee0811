@@ -4,7 +4,7 @@
 
 * Here is my Portfolio 👉 https://jinlee0811.github.io/portfolio/
 
-* 💻 I am an aspiring frontend developer who is constantly learning.
+* 💻 I am a frontend developer who is constantly learning.
 * 📹 I am interested in designing and creating websites, apps, and graphics.
 * 🧐 I strive to become a better developer than I was yesterday.
 
