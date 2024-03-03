@@ -1,21 +1,15 @@
-
-
-## Welcome to my GitHub👏
-
-* Here is my Portfolio 👉 https://jinlee0811.github.io/portfolio/
-
-* 💻 I am a frontend developer who is constantly learning.
-* 📹 I am interested in designing and creating websites, apps, and graphics.
-* 🧐 I strive to become a better developer than I was yesterday.
-
 <h1 align="center">Hi 👋, I'm Jin LEE</h1>
 <h3 align="center">A passionate Full-Stack developer from Sydney</h3>
+
+- 🌱 I’m currently Studying **Master of Information Technology**
+
+- 👨‍💻 All of my projects are available at [https://jinlee0811.github.io/portfolio/](https://jinlee0811.github.io/portfolio/)
 
 - 📫 How to reach me **jinlee811811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeongjin lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeongjin lee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeongjin-lee-72b653272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeongjin-lee-72b653272/" height="30" width="40" /></a>
 <a href="https://instagram.com/jeongjin.leeeeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeongjin.leeeeeee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/긍정진 jinlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="긍정진 jinlee" height="30" width="40" /></a>
 </p>
@@ -26,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinlee0811&show_icons=true&locale=en&layout=compact" alt="jinlee0811" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinlee0811&show_icons=true&locale=en" alt="jinlee0811" /></p>
-
