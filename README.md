@@ -14,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://jinlee0811.github.io/portfolio/](https://jinlee0811.github.io/portfolio/)
 
 - 📫 How to reach me **jinlee811811@gmail.com**
+  
+- - 📝 I regularly write articles on [https://jimmycoding.tistory.com/](https://jimmycoding.tistory.com/)
 
 - ⚡ I used to **Photo📸, Edit🧑‍💻, Video Art🎥**
 
