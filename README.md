@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jinlee811811@gmail.com**
   
-- - 📝 I regularly write articles on [https://jimmycoding.tistory.com/](https://jimmycoding.tistory.com/)
+- 📝 I regularly write articles on [https://jimmycoding.tistory.com/](https://jimmycoding.tistory.com/)
 
 - ⚡ I used to **Photo📸, Edit🧑‍💻, Video Art🎥**
 
