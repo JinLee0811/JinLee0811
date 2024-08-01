@@ -17,7 +17,7 @@
   
 - 📝 I regularly write articles on [https://jimmycoding.tistory.com/](https://jimmycoding.tistory.com/)
 
-- ⚡ I used to **Take a Photo📸, Edit🧑‍💻, Shooting Video🎥**
+- ⚡ I used to **Take a Photoes📸, Edit🧑‍💻, Shooting Videoes🎥**
 
 
 <h3 align="left">Languages and Tools:</h3>
