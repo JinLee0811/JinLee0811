@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinlee0811&label=Profile%20views&color=0e75b6&style=flat" alt="jinlee0811" /> </p>
 
-- 🌱 I’m currently studying **Master of Information Technology(UTS)**
+- 🌱 I’m currently studying **Master of Information Technology at UTS**
 
-- 👨‍💻 All of my projects are available at [https://jinlee0811.github.io/portfolio/](https://jinlee0811.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://jinlee0811.github.io/portfolio/)
 
-- 📫 How to reach me **jinlee811811@gmail.com**
+- 📫 You can reach me at **jinlee811811@gmail.com**
   
-- 📝 I regularly write articles on [https://jimmycoding.tistory.com/](https://jimmycoding.tistory.com/)
+- 📝 I regularly write articles on [my blog](https://jimmycoding.tistory.com/)
 
-- ⚡ I used to **Take a Photos📸, Edit🧑‍💻, Shooting Videos🎥**
+- ⚡ I used to **take photos📸, edit them🧑‍💻, and shoot videos🎥**
 
 
 <h3 align="left">Languages and Tools:</h3>
