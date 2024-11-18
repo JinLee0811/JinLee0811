@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying **Master of Information Technology at UTS**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://jinlee0811.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://jin-lee-portfolio.vercel.app/)
 
 - 📫 You can reach me at **jinlee811811@gmail.com**
   
