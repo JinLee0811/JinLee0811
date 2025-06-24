@@ -4,20 +4,19 @@
 <a href="https://instagram.com/jeongjin.leeeeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeongjin.leeeeeee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@jinleeeeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jinleeeeeee" height="30" width="40" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Jin LEE</h1>
-<h3 align="center">A passionate Full-Stack developer from Sydney</h3>
+<h1 align="center">Hi 👋, I'm Jin Lee</h1>
+<h3 align="center">Full Stack Engineer | AI-Powered Web Products | OpenAI • LangChain • Supabase • Next.js | Sydney-based 🇦🇺 | PR Pathway via Partner Visa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinlee0811&label=Profile%20views&color=0e75b6&style=flat" alt="jinlee0811" /> </p>
 
 - 🌱 I’m currently studying **Master of Information Technology at UTS**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://jin-lee-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jinleedev.vercel.app/)
 
 - 📫 You can reach me at **jinlee811811@gmail.com**
   
-- 📝 I regularly write articles on [my blog](https://jimmycoding.tistory.com/)
+- 📝 I regularly write articles on [My Tech Blog](https://jimmycoding.tistory.com/)
 
-- ⚡ I used to **take photos📸, edit them🧑‍💻, and shoot videos🎥**
 
 
 <h3 align="left">Main Languages and Tools:</h3>
