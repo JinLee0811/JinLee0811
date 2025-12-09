@@ -11,40 +11,60 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jin Lee</h1>
-<h3 align="center">
-Full-Stack Developer expanding into Data Engineering |
-React · Next.js · Node.js · TypeScript · Python · SQL · AWS |
-Sydney 🇦🇺 | Eligible for full-time work (no sponsorship required)
-</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jinlee0811&label=Profile%20views&color=0e75b6&style=flat" alt="jinlee0811" />
 </p>
+<h1 align="center">Hi 👋, I'm Jin Lee</h1>
+<h3 align="center">
+Data Engineer with a Software Engineering Background • Python · SQL · Airflow · AWS • Sydney 🇦🇺
+</h3>
 
-- 🎓 Currently completing a **Master of Information Technology at UTS (Sydney)**  
-- 💻 Experienced in **building full-stack and AI-powered web apps** (OpenAI · LangChain · Supabase)  
-- 🧠 Now transitioning into **Data Engineering** — learning **Airflow**, **Docker**, and building ETL pipelines (API → PostgreSQL → Dashboard)  
-- 🌐 Visit my **Portfolio Website**: [https://jinleedev.vercel.app/](https://jinleedev.vercel.app/)  
-- 📫 Reach me: **jinlee.engineer@gmail.com**  
-- 📝 I also share dev notes on [**Tistory Tech Blog**](https://jimmycoding.tistory.com/)  
+---
 
-<h3 align="left">Main Languages and Tools:</h3>
+### 👨‍💻 About Me  
+I'm a **Data Engineer** based in Sydney 🇦🇺, building automated data pipelines, scalable backend systems, and analytics-ready data models.  
+My foundation in **software engineering and full-stack development** allows me to design reliable, production-grade workflows across APIs, databases, and cloud platforms.
+
+I’m currently focused on:
+
+- 🔄 Python-based **ETL/ELT pipelines**  
+- 🪶 **Airflow** DAG orchestration & workflow automation  
+- 🗄️ SQL data modeling (staging → clean → mart)  
+- ☁️ AWS, Docker, and cloud-native pipeline design  
+- ⚙️ Backend automation & integration of complex data sources  
+
+### 🚀 Recent & Ongoing Projects  
+- **YouTube Data Pipeline (in progress)**  
+  Automated API ingestion → PostgreSQL modeling → Airflow scheduling → Streamlit/Looker dashboard  
+- **Before You Go**  
+  AI-powered travel review summarizer (OpenAI · LangChain · Supabase)  
+- **Portfolio RAG Chatbot**  
+  Embedding-based vector search chatbot with custom prompt flows  
+
+---
+
+### 🎓 Education & Work Eligibility  
+- Master of Information Technology at **UTS (Sydney)**  
+- Transitioning to Partner Visa (PR pathway) —  
+  **Fully eligible for long-term full-time work (no sponsorship required)**
+
+### 📫 Contact  
+**jinlee.engineer@gmail.com**  
+🌐 Portfolio: https://jinleedev.vercel.app/  
+📝 Tech Blog: https://jimmycoding.tistory.com/  
+
+---
+
+<h3 align="left">Main Tools & Technologies:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://airflow.apache.org/images/feature-image.png" alt="airflow" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://airflow.apache.org/images/feature-image.png" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinlee0811&show_icons=true&locale=en&layout=compact" alt="jinlee0811" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinlee0811&show_icons=true&locale=en" alt="jinlee0811" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinlee0811&" alt="jinlee0811" /></p>
+---
