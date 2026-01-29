@@ -14,39 +14,49 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jinlee0811&label=Profile%20views&color=0e75b6&style=flat" alt="jinlee0811" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Jin Lee</h1>
 <h3 align="center">
-Data Engineer with a Software Engineering Background • Python · SQL · Airflow · AWS • Sydney 🇦🇺
+Software Engineer • Full-Stack & Backend • Data-focused Systems<br/>
+JavaScript / TypeScript · React · Python · SQL · AWS • Sydney 🇦🇺
 </h3>
 
 ---
 
 ### 👨‍💻 About Me  
-I'm a **Data Engineer** based in Sydney 🇦🇺, building automated data pipelines, scalable backend systems, and analytics-ready data models.  
-My foundation in **software engineering and full-stack development** allows me to design reliable, production-grade workflows across APIs, databases, and cloud platforms.
+I'm a **Software Engineer** based in Sydney 🇦🇺 with experience building **full-stack and backend systems** for real-world applications.  
+I enjoy working across **frontend, backend, APIs, databases, and cloud infrastructure**, with a strong focus on **debugging, system reliability, and clean architecture**.
+
+Through data-heavy projects, I’ve developed a solid understanding of how **data moves through a system end-to-end** — from ingestion and storage to processing and usage — and I naturally incorporate this mindset when designing software.
 
 I’m currently focused on:
 
-- 🔄 Python-based **ETL/ELT pipelines**  
-- 🪶 **Airflow** DAG orchestration & workflow automation  
-- 🗄️ SQL data modeling (staging → clean → mart)  
-- ☁️ AWS, Docker, and cloud-native pipeline design  
-- ⚙️ Backend automation & integration of complex data sources  
+- 🧩 Full-stack web applications (React, Next.js)  
+- 🔗 Backend services & REST APIs (Node.js, Python)  
+- 🗄️ Relational databases & SQL-based workflows  
+- ⚙️ Background jobs, automation, and async processing  
+- ☁️ Cloud-native development with AWS & Docker  
 
-### 🚀 Recent & Ongoing Projects  
-- **YouTube Data Pipeline (in progress)**  
-  Automated API ingestion → PostgreSQL modeling → Airflow scheduling → Streamlit/Looker dashboard  
+---
+
+### 🚀 Projects  
+- **YouTube Data Platform (in progress)**  
+  API ingestion → PostgreSQL modeling → scheduled background jobs → dashboard visualisation  
 - **Before You Go**  
-  AI-powered travel review summarizer (OpenAI · LangChain · Supabase)  
-- **Portfolio RAG Chatbot**  
-  Embedding-based vector search chatbot with custom prompt flows  
+  Full-stack web app for analysing and summarising Google reviews  
+- **Portfolio Chatbot**  
+  Custom Q&A chatbot embedded into a live portfolio website  
+
+Most projects were handled **end-to-end**, covering system design, implementation, debugging, and iteration.
 
 ---
 
 ### 🎓 Education & Work Eligibility  
-- Master of Information Technology at **UTS (Sydney)**  
-- Transitioning to Partner Visa (PR pathway) —  
-  **Fully eligible for long-term full-time work (no sponsorship required)**
+- Master of Information Technology — **UTS (Sydney)**  
+- Partner Visa (PR pathway) —  
+  **No work restrictions / No sponsorship required**
+
+---
 
 ### 📫 Contact  
 **jinlee.engineer@gmail.com**  
