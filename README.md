@@ -14,7 +14,7 @@ Sydney, Australia 🇦🇺
 
 ## About
 
-Software Engineer with 3+ years of experience building production web applications using **React, TypeScript and Node.js**.
+Software Engineer with building production web applications using **React, TypeScript and Node.js**.
 
 I focus on building scalable **SaaS-style platforms**, designing clean APIs, and deploying reliable systems on **AWS cloud infrastructure**.
 
